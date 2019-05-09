@@ -2,16 +2,16 @@
 Slimbook Battery 3
 ---
 
-Claim!
+CALL!
 If you like Slimbook Battery help us translate it!
+Thanks!!
 
-
-https://slimbook.es/images/imagetuto/slimbook-battery/battery_search.png
 
 
 Install
 --
 sudo add-apt-repository ppa:slimbook/slimbook
+
 sudo apt-get update
 
 By doing this we will have added the Slimbook repositories. Now we will execute the next command to install the application:
