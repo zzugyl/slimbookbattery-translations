@@ -10,9 +10,9 @@ Thanks!!
 
 Install
 --
-sudo add-apt-repository ppa:slimbook/slimbook
+	sudo add-apt-repository ppa:slimbook/slimbook
 
-sudo apt-get update
+	sudo apt-get update
 
 By doing this we will have added the Slimbook repositories. Now we will execute the next command to install the application:
 
