@@ -3,7 +3,9 @@ Slimbook Battery 3
 ---
 
 CALL!
+
 If you like Slimbook Battery help us translate it!
+
 Thanks!!
 
 
