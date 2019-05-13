@@ -8,9 +8,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: SLIMBOOK BATTERY 3.2beta\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-05-09 14:08+0200\n"
+"POT-Creation-Date: 2019-05-13 19:08+0200\n"
 "PO-Revision-Date: 2019-05-09 17:59+0200\n"
-"Last-Translator: SLIMBOOK <dev@slimbook.es>\n"
+"Last-Translator: Albano Battistella <>\n"
 "Language-Team: Italian <LL@li.org>\n"
 "Language: Italian\n"
 "MIME-Version: 1.0\n"
@@ -19,73 +19,73 @@ msgstr ""
 
 #: slimbookbattery-changemode.py:31
 msgid "Has an nvidia graphics card"
-msgstr ""
+msgstr "Ha una scheda grafica nvidia"
 
 #: slimbookbattery-changemode.py:36
 msgid "Changes to nvidia graphics: power off mode"
-msgstr ""
+msgstr "Modifiche alla grafica nvidia: modalità di spegnimento"
 
 #: slimbookbattery-changemode.py:41
 msgid "Changes to intel graphics: energy saving"
-msgstr ""
+msgstr "Modifiche alla grafica Intel: risparmio energetico"
 
 #: slimbookbattery-changemode.py:44
 msgid "Alredy using intel graphics: energy saving"
-msgstr ""
+msgstr "Usa gia' la grafica Intel: risparmio energetico"
 
 #: slimbookbattery-changemode.py:48
 msgid "Changes to nvidia graphics: energy saving"
-msgstr ""
+msgstr "Cambiamenti nella grafica nvidia: risparmio energetico"
 
 #: slimbookbattery-changemode.py:51
 msgid "Alredy using nvidia graphics: energy saving"
-msgstr ""
+msgstr "Usa già la grafica nvidia: risparmio energetico"
 
 #: slimbookbattery-changemode.py:55
 msgid "Changes to intel graphics: balanced"
-msgstr ""
+msgstr "Modifiche alla grafica Intel: bilanciata"
 
 #: slimbookbattery-changemode.py:58
 msgid "Alredy using intel graphics: balanced"
-msgstr ""
+msgstr "Usa gia' la grafica intel:bilanciata"
 
 #: slimbookbattery-changemode.py:62
 msgid "Changes to nvidia graphics: balanced"
-msgstr ""
+msgstr "Modifiche alla grafica nvidia: bilanciata"
 
 #: slimbookbattery-changemode.py:65
 msgid "Alredy using nvidia graphics: balanced"
-msgstr ""
+msgstr "Usa gia' la grafica nvidia:bilanciata"
 
 #: slimbookbattery-changemode.py:70
 msgid "Changes to nvidia graphics: maximumum performance"
-msgstr ""
+msgstr "Modifiche alla grafica nvidia: massime prestazioni"
 
 #: slimbookbattery-changemode.py:73
 msgid "Alredy using nvidia graphics: maximum performance"
-msgstr ""
+msgstr "Usa gia' la grafica nvidia:massime prestazioni"
 
 #: slimbookbattery-changemode.py:77
 msgid ""
 "Modifications for AMD and Intel graphics are going to be made: energy saving"
-msgstr ""
+msgstr "Le modifiche per la grafica AMD e Intel saranno effettuate: risparmio energetico"
 
 #: slimbookbattery-changemode.py:131
 msgid "AMD and Intel graphics back to default configuration: energy saving"
-msgstr ""
+msgstr "La grafica di AMD e Intel torna alla configurazione predefinita: risparmio energetico"
 
 #: slimbookbattery-changemode.py:136
 msgid "Modifications for AMD and Intel graphics are going to be made: balanced"
-msgstr ""
+msgstr "Le modifiche per la grafica AMD e Intel saranno effettuate: bilanciata"
 
 #: slimbookbattery-changemode.py:184
 msgid "AMD and Intel graphics back to default configuration: balanced"
-msgstr ""
+msgstr "La grafica di AMD e Intel torna alla configurazione predefinita: bilanciata"
 
 #: slimbookbattery-changemode.py:207
 msgid "Brightness value converted: "
-msgstr ""
+msgstr "Valore di luminosità convertito:"
 
 #: slimbookbattery-changemode.py:213
 msgid "Error calling accion param"
-msgstr ""
+msgstr "Errore durante la chiamata del parametro"
