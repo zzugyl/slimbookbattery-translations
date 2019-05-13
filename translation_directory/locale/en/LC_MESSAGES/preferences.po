@@ -171,11 +171,11 @@ msgid "Note: this option reduces the battery consumption considerably"
 msgstr ""
 
 #: preferences.py:536 preferences.py:992 preferences.py:1446
-msgid "Bluetooth don't boot on start:"
+msgid "Bluetooth doesn't boot on start:"
 msgstr ""
 
 #: preferences.py:551 preferences.py:1007 preferences.py:1461
-msgid "Wi-Fi don't boot on start:"
+msgid "Wi-Fi doesn't boot on start:"
 msgstr ""
 
 #: preferences.py:566 preferences.py:1022 preferences.py:1476
@@ -319,13 +319,13 @@ msgstr ""
 
 #: preferences.py:1939
 msgid ""
-"Slimbook Battery it's a battery optimization application for portable "
-"devices that can increase the battery"
+"Slimbook Battery is a battery optimization application for portable "
+"devices and can increase the battery"
 msgstr ""
 
 #: preferences.py:1939
 msgid ""
-"life by 50%. For this purpose, the third-party software is used to manage "
+"life up to 50%. For this purpose, the third-party software is used to manage "
 "and configure the system resources."
 msgstr ""
 
@@ -337,7 +337,7 @@ msgstr ""
 
 #: preferences.py:1949
 msgid ""
-"If this application has been useful to you consider saying it in our social "
+"If this application has been useful to you, consider saying it in our social "
 "networks or even buy a SLIMBOOK ;)"
 msgstr ""
 
@@ -347,13 +347,13 @@ msgstr ""
 
 #: preferences.py:1999
 msgid ""
-" If you have any software, widget or application to change the CPU profile, "
+" If you have any software, widget or application that changes the CPU profile, "
 "battery optimization"
 msgstr ""
 
 #: preferences.py:1999
 msgid ""
-"or similar, it may affect the functionament of this application. Use it "
+"or similar, it may affect the operation of this application. Use it "
 "under your responsibility."
 msgstr ""
 
@@ -370,7 +370,7 @@ msgstr ""
 "application-for-optimize-battery-of-your-laptop"
 
 #: preferences.py:2016
-msgid "Tutorial to learn use Slimbook Battery"
+msgid "Tutorial to learn to use Slimbook Battery"
 msgstr ""
 
 #: preferences.py:2021
@@ -540,11 +540,11 @@ msgid ""
 msgstr ""
 
 #: preferences.py:3311
-msgid "Error taking actual mode setting"
+msgid "Error taking current mode setting"
 msgstr ""
 
 #: preferences.py:3312
-msgid "Actual mode : "
+msgid "Current mode : "
 msgstr ""
 
 #: preferences.py:3313
