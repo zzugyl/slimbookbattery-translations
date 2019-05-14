@@ -17,586 +17,438 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: preferences.py:38
-msgid "Slimbook Battery Preferences"
+#: preferences.py:41
+msgid "strdialogtitle"
 msgstr "Preferências do Slimbook Battery"
 
-#: preferences.py:42
-msgid "Restore default values"
+#: preferences.py:45
+msgid "strrestorebutton"
 msgstr "Restaurar valores padrão"
 
-#: preferences.py:61
-msgid "Full window is displayed"
+#: preferences.py:64
+msgid "strprintwindowsize"
 msgstr "Janela completa é exibida"
 
-#: preferences.py:81
-msgid "Width: "
+#: preferences.py:84
+msgid "strprintancho"
 msgstr "Largura: "
 
-#: preferences.py:81
-msgid " Height: "
+#: preferences.py:84
+msgid "strprintalto"
 msgstr " Altura: "
 
-#: preferences.py:83 preferences.py:91
-msgid "General"
-msgstr "Geral:"
+#: preferences.py:86 preferences.py:94
+msgid "strpagegeneral"
+msgstr "Geral"
 
-#: preferences.py:101 preferences.py:109
-msgid "Cycles"
-msgstr "Ciclos:"
+#: preferences.py:104 preferences.py:112
+msgid "strpagecycles"
+msgstr "Ciclos"
 
-#: preferences.py:119 preferences.py:127 preferences.py:237 preferences.py:2901
-msgid "Energy saving"
+#: preferences.py:122 preferences.py:130 preferences.py:240 preferences.py:2901
+msgid "strenergysaving"
 msgstr "Economia de energia"
 
-#: preferences.py:137 preferences.py:145 preferences.py:238 preferences.py:2903
-msgid "Balanced"
+#: preferences.py:140 preferences.py:148 preferences.py:241 preferences.py:2906
+msgid "strbalanced"
 msgstr "Equilibrado"
 
-#: preferences.py:155 preferences.py:163
-msgid "Maximum Performance"
+#: preferences.py:158 preferences.py:166 preferences.py:242 preferences.py:2908
+msgid "strmaximumperformance"
 msgstr "Máximo Desempenho"
 
-#: preferences.py:173 preferences.py:181
-msgid "Battery"
+#: preferences.py:176 preferences.py:184
+msgid "strpagebattery"
 msgstr "Bateria"
 
-#: preferences.py:191 preferences.py:199
-msgid "Information"
+#: preferences.py:194 preferences.py:202
+msgid "strpageinfo"
 msgstr "Informações"
 
-#: preferences.py:208
-msgid "Power On / Off:"
-msgstr "Ligar / Desligar"
+#: preferences.py:211
+msgid "strswitchonoff"
+msgstr "Ligar / Desligar:"
 
-#: preferences.py:220
-msgid "Autostart application:"
+#: preferences.py:223
+msgid "strswitchautostart"
 msgstr "Iniciar automaticamente:"
 
-#: preferences.py:232
-msgid "Actual energy mode:"
+#: preferences.py:235
+msgid "strselectmode"
 msgstr "Modo de energia atual:"
 
-#: preferences.py:239 preferences.py:2905
-msgid "Maximum performance"
-msgstr "Máximo Desempenho"
+#: preferences.py:264
+msgid "strworkingmode"
+msgstr "Modo de trabalho em caso de falha da bateria:"
 
-#: preferences.py:261
-msgid "Working mode in case of battery failure"
-msgstr "Modo de trabalho em caso de falha da bateria"
+#: preferences.py:282
+msgid "striconapp"
+msgstr "Ícone na barra de tarefas (requer reiniciar aplicativo):"
 
-#: preferences.py:279
-msgid "Icon on the taskbar (require restart app):"
-msgstr "Ícone na barra de tarefas (requer reiniciar aplicativo)"
-
-#: preferences.py:289
-msgid ""
-"Note: If you have the autostart activated and the icon hide, the app will be "
-"executed with the icon hide (once you restart the system)"
+#: preferences.py:292
+msgid "strhelpiconapp"
 msgstr "Se você selecionou a opção de início automático e não selecionar a opção de exibir o ícone na barra de tarefas, o aplicativo vai iniciar com o ícone escondido (uma vez que reinicie o sistema)"
 
-#: preferences.py:306
-msgid "Hibernate system after 3 hours in suspension:"
+#: preferences.py:309
+msgid "strhibernate"
 msgstr "Hibernar o sistema depois de 3 horas de suspensão:"
 
-#: preferences.py:323 preferences.py:770 preferences.py:1225
-msgid "Battery mode parameters (disabled when you connect AC power):"
+#: preferences.py:325 preferences.py:773 preferences.py:1228
+msgid "strtitlebatparams"
 msgstr "Parâmetros do modo bateria (desabilitados quando conectado à tomada)"
 
-#: preferences.py:332 preferences.py:779 preferences.py:1234
-msgid "Limit CPU profile:"
-msgstr "Limitar o perfil da CPU "
+#: preferences.py:335 preferences.py:782 preferences.py:1237
+msgid "strlimitcpu"
+msgstr "Limitar o perfil da CPU:"
 
-#: preferences.py:342 preferences.py:789 preferences.py:1244
-msgid "Note: this setting affect to performance"
+#: preferences.py:345 preferences.py:792 preferences.py:1247
+msgid "strlimitcputooltip"
 msgstr "Nota: esta configuração afeta o desempenho"
 
-#: preferences.py:351 preferences.py:798 preferences.py:1253
-#: preferences.py:2947 preferences.py:3081 preferences.py:3262
-msgid "maximum"
+#: preferences.py:354 preferences.py:801 preferences.py:1256
+#: preferences.py:2950 preferences.py:3084 preferences.py:3265
+msgid "strmaximumlimitcpu"
 msgstr "máximo"
 
-#: preferences.py:352 preferences.py:799 preferences.py:1254
-#: preferences.py:2950 preferences.py:3084 preferences.py:3265
-msgid "medium"
+#: preferences.py:355 preferences.py:802 preferences.py:1257
+#: preferences.py:2953 preferences.py:3087 preferences.py:3268
+msgid "strmediumlimitcpu"
 msgstr "médio"
 
-#: preferences.py:353 preferences.py:800 preferences.py:1255
-#: preferences.py:2953 preferences.py:3087 preferences.py:3268
-msgid "none"
+#: preferences.py:356 preferences.py:803 preferences.py:1258
+#: preferences.py:2956 preferences.py:3090 preferences.py:3271
+msgid "strnonelimitcpu"
 msgstr "nenhum"
 
-#: preferences.py:368 preferences.py:816 preferences.py:1270
-msgid "CPU scaling governor saving profile:"
+#: preferences.py:371 preferences.py:819 preferences.py:1273
+msgid "strgovernorcpu"
 msgstr "Perfil de economia do controlador da CPU:"
 
-#: preferences.py:387 preferences.py:842 preferences.py:1296
-msgid "Graphic card saving profile (Nvidia/AMD/Intel):"
+#: preferences.py:390 preferences.py:845 preferences.py:1299
+msgid "strgraphicssaving"
 msgstr "Perfil de economia da placa gráfica (Nvidia/AMD/Intel):"
 
-#: preferences.py:404 preferences.py:859 preferences.py:1313
-msgid "Sound power saving profile:"
+#: preferences.py:407 preferences.py:862 preferences.py:1316
+msgid "strsoundsaving"
 msgstr "Perfil de economia de energia do som:"
 
-#: preferences.py:414 preferences.py:869 preferences.py:1323
-msgid "Note: this setting can cause slight clicks in sound output"
+#: preferences.py:417 preferences.py:872 preferences.py:1326
+msgid "strsoundtooltip"
 msgstr "Nota: esta configuração pode causar pequenos cliques na saída de som"
 
-#: preferences.py:435 preferences.py:890 preferences.py:1344
-msgid "Wi-Fi power saving profile:"
-msgstr "Perfil de economia de energia da Wi-Fi"
+#: preferences.py:438 preferences.py:893 preferences.py:1347
+msgid "strwifisaving"
+msgstr "Perfil de economia de energia da Wi-Fi:"
 
-#: preferences.py:445 preferences.py:900 preferences.py:1354
-msgid "Note: power save can cause an unstable wifi link."
+#: preferences.py:448 preferences.py:903 preferences.py:1357
+msgid "strwifisavingtooltip"
 msgstr "Nota: economia de energia pode causar instabilidade na conexão wifi."
 
-#: preferences.py:464 preferences.py:919 preferences.py:1373
-msgid "Bluetooth disabled when not in use:"
+#: preferences.py:467 preferences.py:922 preferences.py:1376
+msgid "strbluetoothniu"
 msgstr "Bluetooth desabilitado quando não está em uso:"
 
-#: preferences.py:479 preferences.py:934 preferences.py:1388
-msgid "Wi-Fi disabled when not in use:"
+#: preferences.py:482 preferences.py:937 preferences.py:1391
+msgid "strwifiniu"
 msgstr "Wi-Fi desabilitada quando não está em uso:"
 
-#: preferences.py:495 preferences.py:950 preferences.py:1404
-msgid "Persistent changes:"
+#: preferences.py:498 preferences.py:953 preferences.py:1407
+msgid "strpersistentparams"
 msgstr "Mudanças persistentes:"
 
-#: preferences.py:504 preferences.py:959 preferences.py:1413
-msgid "Set screen brightness:"
+#: preferences.py:507 preferences.py:962 preferences.py:1416
+msgid "strbrightness"
 msgstr "Configurar brilho da tela:"
 
-#: preferences.py:514 preferences.py:969 preferences.py:1423
-msgid "Note: this option reduces the battery consumption considerably"
+#: preferences.py:517 preferences.py:972 preferences.py:1426
+msgid "strbirghtnesstooltip"
 msgstr "Nota: esta opção reduz consideravelmente o consumo da bateria"
 
-#: preferences.py:536 preferences.py:992 preferences.py:1446
-msgid "Bluetooth don't boot on start:"
-msgstr "Bluetooth não liga com o início do sistema"
+#: preferences.py:539 preferences.py:995 preferences.py:1449
+msgid "strbluetoothdbos"
+msgstr "Bluetooth não liga com o início do sistema:"
 
-#: preferences.py:551 preferences.py:1007 preferences.py:1461
-msgid "Wi-Fi don't boot on start:"
-msgstr "Wi-Fi não liga com o início do sistema"
+#: preferences.py:554 preferences.py:1010 preferences.py:1464
+msgid "strwifidbos"
+msgstr "Wi-Fi não liga com o início do sistema:"
 
-#: preferences.py:566 preferences.py:1022 preferences.py:1476
-msgid "Disable Wi-Fi when LAN is connected:"
+#: preferences.py:569 preferences.py:1025 preferences.py:1479
+msgid "strwifionlanconn"
 msgstr "Desabilitar Wi-Fi quando a LAN está conectada:"
 
-#: preferences.py:583 preferences.py:1039 preferences.py:1493
-msgid "Autosuspend USB Ports:"
-msgstr "Autosuspender Portas USB"
+#: preferences.py:586 preferences.py:1042 preferences.py:1496
+msgid "strautosuspendusb"
+msgstr "Autosuspender Portas USB:"
 
-#: preferences.py:593 preferences.py:1049 preferences.py:1503
-msgid ""
-"Note: Set autosuspend mode for all USB devices upon system start or a change "
-"of power source. Input devices like mice and keyboards as well as scanners "
-"are excluded by default"
-msgstr ""
-"Nota: Aplica o modo de autosuspensão de todos os dispositivos USB com o início do "
-"sistema ou mudança da fonte de energia. Dispositivos de entrada como mouse e "
-"teclado assim como scanners são excluídos por padrão"
+#: preferences.py:596 preferences.py:1052 preferences.py:1506
+msgid "strautosuspendusbtooltip"
+msgstr "Nota: Aplica o modo de autosuspensão de todos os dispositivos USB com o início do sistema ou mudança da fonte de energia. Dispositivos de entrada como mouse e teclado assim como scanners são excluídos por padrão"
 
-#: preferences.py:615 preferences.py:1070 preferences.py:1525
-msgid "Excluded USB IDs from USB autosuspend:"
-msgstr "USB IDs excluídos do modo de autosuspensão de USB"
+#: preferences.py:618 preferences.py:1073 preferences.py:1528
+msgid "strexcludedusbids"
+msgstr "USB IDs excluídos do modo de autosuspensão de USB:"
 
-#: preferences.py:644
-msgid ""
-"Note: You need to write in the Text Box the USB IDs (separate with spaces) "
-"to exclude from autosuspend"
-msgstr ""
-"Você precisa escrever na caixa de texto os IDs de USB (separados por espaços) "
-"para excluí-los da autosuspensão"
-""
+#: preferences.py:647 preferences.py:1102 preferences.py:1557
+msgid "strexcludedusbtooltip"
+msgstr "Você precisa escrever na caixa de texto os IDs de USB (separados por espaços) para excluí-los da autosuspensão"
 
-#: preferences.py:668 preferences.py:1123 preferences.py:1578
-msgid "Exclude bluetooth devices from USB autosuspend:"
+#: preferences.py:671 preferences.py:1126 preferences.py:1581
+msgid "strusbexcludebluetooth"
 msgstr "Excluir os dispositivos bluetooth da autosuspensão de USB:"
 
-#: preferences.py:688 preferences.py:1143 preferences.py:1598
-msgid "Exclude phone devices from USB autosuspend:"
+#: preferences.py:691 preferences.py:1146 preferences.py:1601
+msgid "strusbexcludephone"
 msgstr "Excluir dispositivos celulares da autosuspensão de USB:"
 
-#: preferences.py:708 preferences.py:1163 preferences.py:1618
-msgid "Exclude printer devices from USB autosuspend:"
-msgstr "Excluir impressoras da autosuspensão de USB"
+#: preferences.py:711 preferences.py:1166 preferences.py:1621
+msgid "strusbexcludeprinter"
+msgstr "Excluir impressoras da autosuspensão de USB:"
 
-#: preferences.py:728 preferences.py:1183 preferences.py:1638
-msgid "Exclude Ethernet devices from USB autosuspend:"
-msgstr "Excluir dispositivos Ethernet da autosuspensão de USB"
+#: preferences.py:731 preferences.py:1186 preferences.py:1641
+msgid "strusbexcludeethernet"
+msgstr "Excluir dispositivos Ethernet da autosuspensão de USB:"
 
-#: preferences.py:748 preferences.py:1203 preferences.py:1658
-msgid "Disable USB autosuspend mode upon system shutdown:"
+#: preferences.py:751 preferences.py:1206 preferences.py:1661
+msgid "strusbautosuspenddisshutdown"
 msgstr "Desabilitar o modo de autosuspensão de USB quando desligar o sistema:"
 
-#: preferences.py:1099 preferences.py:1554
-msgid ""
-"Note: You need to write in the Text Box the USB IDs (separate with spaces) "
-"to exclude from autosuspend."
-msgstr ""
-"Você precisa escrever na caixa de texto os IDs de USB (separados por espaços) "
-"para excluí-los da autosuspensão"
+#: preferences.py:1680
+msgid "strswitchcyclealerts"
+msgstr "Habilitar / Desabilitar ciclo de alertas:"
 
-#: preferences.py:1677
-msgid "Enable / Disable cycle alerts"
-msgstr "Habilitar / Desabilitar ciclo de alertas"
-
-#: preferences.py:1689
-msgid "Max battery value:"
+#: preferences.py:1692
+msgid "strmaxbatval"
 msgstr "Valor máximo de bateria:"
 
-#: preferences.py:1705
-msgid "Min battery value:"
+#: preferences.py:1708
+msgid "strminbatval"
 msgstr "Valor mínimo de bateria:"
 
-#: preferences.py:1721
-msgid "Number of times:"
+#: preferences.py:1724
+msgid "strnumoftimes"
 msgstr "Número de vezes:"
 
-#: preferences.py:1737
-msgid "Time between Warnings:"
+#: preferences.py:1740
+msgid "strtimebwnwarnings"
 msgstr "Tempo entre Avisos:"
 
-#: preferences.py:1772
-msgid "Battery device:"
+#: preferences.py:1775
+msgid "strbatdevice"
 msgstr "Dispositivo de bateria:"
 
-#: preferences.py:1781
-msgid "Manufacturer:"
+#: preferences.py:1784
+msgid "strmanufacturer"
 msgstr "Fabricante:"
 
-#: preferences.py:1790
-msgid "Battery model:"
+#: preferences.py:1793
+msgid "strbatmodel"
 msgstr "Modelo da bateria:"
 
-#: preferences.py:1799
-msgid "Technology:"
+#: preferences.py:1802
+msgid "strtechnology"
 msgstr "Tecnologia:"
 
-#: preferences.py:1808
-msgid "Remaining battery:"
+#: preferences.py:1811
+msgid "strremainbat"
 msgstr "Bateria restante:"
 
-#: preferences.py:1817
-msgid "Maximum capacity:"
+#: preferences.py:1820
+msgid "strmaxcapacity"
 msgstr "Capacidade máxima:"
 
-#: preferences.py:1826
-msgid "Status:"
+#: preferences.py:1829
+msgid "strstatusbat"
 msgstr "Estado:"
 
-#: preferences.py:1836 preferences.py:1846
-msgid "Time to full:"
+#: preferences.py:1839 preferences.py:1849
+msgid "strtimetofullbat"
 msgstr "Tempo para completa:"
 
-#: preferences.py:1841
-msgid "Time to empty:"
+#: preferences.py:1844
+msgid "strtimetoemptybat"
 msgstr "Tempo para vazia:"
 
-#: preferences.py:1851
-msgid "Time to full/empty:"
+#: preferences.py:1854
+msgid "strtimetofullemptybat"
 msgstr "Tempo para completa/vazia:"
 
-#: preferences.py:1860
-msgid "Rechargeable:"
+#: preferences.py:1863
+msgid "strrechargeablebat"
 msgstr "Recarregável:"
 
-#: preferences.py:1869
-msgid "Power supply:"
+#: preferences.py:1872
+msgid "strpowersupplybat"
 msgstr "Fonte de alimentação:"
 
-#: preferences.py:1878
-msgid "Energy full:"
+#: preferences.py:1881
+msgid "strenergyfullbat"
 msgstr "Energia cheia:"
 
-#: preferences.py:1887
-msgid "Energy full design:"
+#: preferences.py:1890
+msgid "strenergyfulldesignbat"
 msgstr "Energia cheia no projeto:"
 
-#: preferences.py:1896
-msgid "Energy rate:"
+#: preferences.py:1899
+msgid "strenergyratebat"
 msgstr "Taxa de energia:"
 
-#: preferences.py:1905
-msgid "Voltage:"
+#: preferences.py:1908
+msgid "strvoltagebat"
 msgstr "Voltagem:"
 
-#: preferences.py:1914
-msgid "Last update of the battery information:"
+#: preferences.py:1917
+msgid "strlastupdatebat"
 msgstr "Última atualização das informações da bataria:"
 
-#: preferences.py:1939
-msgid ""
-"Slimbook Battery it's a battery optimization application for portable "
-"devices that can increase the battery"
-msgstr ""
-"Slimbook Baterry é um aplicativo de otimização de bateria para dispositivos"
-"portáteis que pode aumentar a vida"
+#: preferences.py:1942
+msgid "strslimbookbatdesc1"
+msgstr "Slimbook Baterry é um aplicativo de otimização de bateria para dispositivos portáteis que pode aumentar a vida"
 
-#: preferences.py:1939
-msgid ""
-"life by 50%. For this purpose, the third-party software is used to manage "
-"and configure the system resources."
-msgstr ""
-"da bateria em até 50%. Por essa razão, softwares de terceiros são usados para gerenciar "
-"e configurar os recursos do sistema."
+#: preferences.py:1942
+msgid "strslimbookbatdesc2"
+msgstr "da bateria em até 50%. Por essa razão, softwares de terceiros são usados para gerenciar e configurar os recursos do sistema."
 
-#: preferences.py:1944
-msgid ""
-"Special thanks to TLP (© 2019, linrunner), Nvidia, AMD and Intel for "
-"offering us the necessary tools to make it possible!"
-msgstr ""
-"Agradecimentos especiais para TLP (© 2019, linrunner), Nvidia, AMD and Intel por"
-"nos oferecer as ferramentas necessárias para tornar isso possível!"
+#: preferences.py:1947
+msgid "strslimbookbatthanks"
+msgstr "Agradecimentos especiais para TLP (© 2019, linrunner), Nvidia, AMD and Intel por nos oferecer as ferramentas necessárias para tornar isso possível!"
 
-#: preferences.py:1949
-msgid ""
-"If this application has been useful to you consider saying it in our social "
-"networks or even buy a SLIMBOOK ;)"
-msgstr ""
-"Se esse aplicativo tem sido útil para você, considere dizer isso em nossas redes "
-"sociais ou mesmo compar um SLIMBOOK ;)"
+#: preferences.py:1952
+msgid "strslimbookbatsocialnetworks"
+msgstr "Se esse aplicativo tem sido útil para você, considere dizer isso em nossas redes sociais ou mesmo compar um SLIMBOOK ;)"
 
-#: preferences.py:1999
-msgid "IMPORTANT NOTE:"
+#: preferences.py:2002
+msgid "stradvice1"
 msgstr "NOTA IMPORTANTE:"
 
-#: preferences.py:1999
-msgid ""
-" If you have any software, widget or application to change the CPU profile, "
-"battery optimization"
-msgstr ""
-"Se você tem qualquer software, widget ou aplicativo que muda o perfil da CPU,"
-"otimização da bateria"
+#: preferences.py:2002
+msgid "stradvice2"
+msgstr " Se você tem qualquer software, widget ou aplicativo que muda o perfil da CPU, otimização da bateria"
 
-#: preferences.py:1999
-msgid ""
-"or similar, it may affect the functionament of this application. Use it "
-"under your responsibility."
-msgstr ""
-"ou similar, isso pode afetar o funcionamento deste aplicativo. Use "
-"sob sua responsabilidade."
+#: preferences.py:2002
+msgid "stradvice3"
+msgstr "ou similar, isso pode afetar o funcionamento deste aplicativo. Use sob sua responsabilidade."
 
-#: preferences.py:2012
-msgid "Visit SLIMBOOK website"
+#: preferences.py:2015
+msgid "strvisitwebsite"
 msgstr "Visite o website SLIMBOOK"
 
-#: preferences.py:2016
-msgid ""
-"https://slimbook.es/tutoriales/aplicaciones-slimbook/100-slimbook-battery-3-"
-"optimiza-la-duracion-de-la-bateria-de-tu-ordenador-portatil"
-msgstr ""
-"https://slimbook.es/en/tutoriales/aplicaciones-slimbook/398-slimbook-battery-3-"
-"application-for-optimize-battery-of-your-laptop"
+#: preferences.py:2019
+msgid "strurlwebsite"
+msgstr "https://slimbook.es/en/tutoriales/aplicaciones-slimbook/398-slimbook-battery-3-application-for-optimize-battery-of-your-laptop"
 
-#: preferences.py:2016
-msgid "Tutorial to learn use Slimbook Battery"
+#: preferences.py:2019
+msgid "strvisittutorial"
 msgstr "Tutorial para aprender a usar o Slimbook Baterry"
 
-#: preferences.py:2021
-msgid "Info:"
+#: preferences.py:2024
+msgid "straditionalinfo1"
 msgstr "Info:"
 
-#: preferences.py:2021
-msgid ""
-"Contact with us if you find something wrong. We would appreciate that you "
-"attach the file that is generated"
-msgstr ""
-"Entre em contato se você encontrar algo errado. Nós ficaríamos agradecidos se você "
-"enviar o arquivo que é gerado"
+#: preferences.py:2024
+msgid "straditionalinfo2"
+msgstr "Entre em contato se você encontrar algo errado. Nós ficaríamos agradecidos se você enviar o arquivo que é gerado"
 
-#: preferences.py:2021
-msgid "by clicking the button below"
+#: preferences.py:2024
+msgid "straditionalinfo3"
 msgstr "ao clicar no botão abaixo"
 
-#: preferences.py:2032
-msgid "Send an e-mail to: "
-msgstr "Envie um e-mail para:"
+#: preferences.py:2035
+msgid "strsendemail"
+msgstr "Envie um e-mail para: "
 
-#: preferences.py:2038
-msgid "Copy e-mail"
+#: preferences.py:2041
+msgid "strcopyemail"
 msgstr "Copiar e-mail"
 
-#: preferences.py:2045
-msgid "Generate report file"
+#: preferences.py:2048
+msgid "strgeneratereport"
 msgstr "Gerar relatório"
 
-#: preferences.py:2050
-msgid "You are free to:"
+#: preferences.py:2053
+msgid "strwarranty"
+msgstr "O software é fornecido \"como está\", sem garantia de nenhum tipo."
+
+#: preferences.py:2058
+msgid "strlicense1"
 msgstr "Você é livre para:"
 
-#: preferences.py:2050
-msgid "Share:"
+#: preferences.py:2058
+msgid "strlicense2"
 msgstr "Compartilhar:"
 
-#: preferences.py:2050
-msgid " --copy and redistribute the material in any medium or format"
+#: preferences.py:2058
+msgid "strlicense3"
 msgstr " --copiar e redistribuir o material em qualquer mídia ou formato"
 
-#: preferences.py:2050
-msgid "Slimbook Copyright - License CC BY-NC-ND 4.0"
-msgstr "Slimbook Copyright - Licença CC BY-NC-ND 4.0"
+#: preferences.py:2058
+msgid "strlicense4"
+msgstr "Slimbook Copyright - Licença Creative Commons BY-NC-ND 4.0"
 
-#: preferences.py:2070
-msgid "Result: "
-msgstr "Resultado: "
-
-#: preferences.py:2074 preferences.py:2082 preferences.py:2090
-#: preferences.py:2098 preferences.py:2106 preferences.py:2114
-#: preferences.py:2122 preferences.py:2131 preferences.py:2138
-#: preferences.py:2142 preferences.py:2150 preferences.py:2158
-#: preferences.py:2166 preferences.py:2174 preferences.py:2182
-#: preferences.py:2190 preferences.py:2202
-msgid "Unknown"
+#: preferences.py:2081 preferences.py:2089 preferences.py:2097
+#: preferences.py:2105 preferences.py:2113 preferences.py:2121
+#: preferences.py:2129 preferences.py:2138 preferences.py:2145
+#: preferences.py:2149 preferences.py:2157 preferences.py:2165
+#: preferences.py:2173 preferences.py:2181 preferences.py:2189
+#: preferences.py:2197 preferences.py:2209
+msgid "strunknown"
 msgstr "Desconhecido"
 
-#: preferences.py:2129
-msgid " hours"
+#: preferences.py:2136 preferences.py:2143
+msgid "strhours"
 msgstr " horas"
 
-#: preferences.py:2140
-msgid "Fully charged"
+#: preferences.py:2147
+msgid "strfullychargedbat"
 msgstr "Completamente carregado"
 
-#: preferences.py:2215
-msgid "Report file generated"
+#: preferences.py:2222
+msgid "strprintreportfilecheck1"
 msgstr "Relatório gerado"
 
-#: preferences.py:2217
-msgid "Report file canceled, wrong password"
+#: preferences.py:2224
+msgid "strprintreportfilecheck2"
 msgstr "Relatório cancelado, senha incorreta"
 
-#: preferences.py:2219
-msgid "Report file canceled"
+#: preferences.py:2226
+msgid "strprintreportfilecheck3"
 msgstr "Relatório cancelado"
 
-#: preferences.py:2226
-msgid "The e-mail has been copied to the clipboard"
+#: preferences.py:2233
+msgid "strprintemailcopied"
 msgstr "O e-mail foi copiado para a área de transferência"
 
-#: preferences.py:2239 preferences.py:3407
-msgid "Alert!"
+#: preferences.py:2246 preferences.py:3377
+msgid "stralertdialog"
 msgstr "Alerta!"
 
-#: preferences.py:2241
-msgid "Do you want to restore to the default values?"
+#: preferences.py:2248
+msgid "strmessagerestoredefaultvalues"
 msgstr "Você quer restaurar para os valores padrões?"
 
-#: preferences.py:2287
-msgid "Restored values canceled"
+#: preferences.py:2294
+msgid "strprintrestorevaluescancel"
 msgstr "Valores restaurados cancelados"
 
-#: preferences.py:2890
-msgid "Work Mode selected with ID: "
-msgstr "Modo de Trabalho selecionado com ID:"
-
-#: preferences.py:2890 preferences.py:2900 preferences.py:2946
-#: preferences.py:3064 preferences.py:3080 preferences.py:3245
-#: preferences.py:3261
-msgid " Name: "
-msgstr "Nome: "
-
-#: preferences.py:2900
-msgid "Actual Mode selected with ID: "
-msgstr "Modo Atual selecionado com ID: "
-
-#: preferences.py:2919
-msgid "Wrong values in Sound saving (energy saving) setting"
-msgstr "Valores errados na configuraçao de economia de Som (economia de energia)"
-
-#: preferences.py:2927
-msgid "Wrong values in Wi-Fi saving (energy saving) setting"
-msgstr "Valores errados na configuraçao de economia de Wi-Fi (economia de energia)"
-
-#: preferences.py:2940
-msgid "Wrong values in Bluetooth startup (energy saving) setting"
-msgstr "Valores errados na configuraçao de início do Bluetooth (economia de energia)"
-
-#: preferences.py:2946
-msgid "Limit CPU with ID: "
-msgstr "Limitar a CPU com ID: "
-
-#: preferences.py:2968
-msgid "Wrong values in Bluetooth/Wi-Fi not in use (energy saving) setting"
-msgstr "Valor incorreto na configuração de Bluetooth/Wi-fi não em uso (economia de energia)"
-
-#: preferences.py:3035
-msgid "Wrong values in Sound saving (balanced) setting"
-msgstr "Valores errados na configuração de economia de Som (Equalibrado)"
-
-#: preferences.py:3043
-msgid "Wrong values in Wi-Fi saving (balanced) setting"
-msgstr "Valores errados na configuração de economia de Wi-Fi (Equalibrado)"
-
-#: preferences.py:3056
-msgid "Wrong values in Bluetooth startup (balanced) setting"
-msgstr "Valores errados na configuração de início do Bluetooth (Equalibrado)"
-
-#: preferences.py:3064 preferences.py:3245
-msgid "Governor selected with ID: "
-msgstr "Controlador selecionado com ID: "
-
-#: preferences.py:3080 preferences.py:3261
-msgid "Limit CPU selected with ID: "
-msgstr "Limitar CPU selecionada com ID: "
-
-#: preferences.py:3102
-msgid "Wrong values in Bluetooth/Wi-Fi not in use (balanced) setting"
-msgstr "Valores errados na configuração de Bluetooth/Wi-Fi não em uso (Equilibrado)"
-
-#: preferences.py:3187
-msgid "Wrong values in Bluetooth saving (maximum performance) setting"
-msgstr "Valores errados na configuração da economia de Bluetooth (máximo desempenho)"
-
-#: preferences.py:3229
-msgid "Wrong values in Sound saving (maximum performance) setting"
-msgstr "Valores errados na configuração de economia de Som (máximo desempenho)"
-
-#: preferences.py:3237
-msgid "Wrong values in Wi-Fi saving (maximum performance) setting"
-msgstr "Valores errados na configuração de economia de Wi-Fi (máximo desempenho)"
-
-#: preferences.py:3283
-msgid ""
-"Wrong values in Bluetooth/Wi-Fi not in use (maximum performance) setting"
-msgstr ""
-"Valores errados na configuração de Bluetooth/Wi-fi" não em uso (máximo desempenho)"
-
-#: preferences.py:3311
-msgid "Error taking actual mode setting"
-msgstr "Erro ao tomar a configuração do modo atual"
-
-#: preferences.py:3312
-msgid "Actual mode : "
+#: preferences.py:3285
+msgid "strcurrentmode"
 msgstr "Modo atual: "
 
-#: preferences.py:3313
-msgid "Autostart: "
+#: preferences.py:3286
+msgid "strprintautostart"
 msgstr "Início automático: "
 
-#: preferences.py:3315
-msgid "OnOff: "
+#: preferences.py:3288
+msgid "strprintappstatus"
 msgstr "OnOff: "
 
-#: preferences.py:3353
-msgid "Error at statAutostart and statOnOff values"
-msgstr "Erro nos valores de statAutostart e statOnOff"
+#: preferences.py:3379
+msgid "strmessagenvidia1"
+msgstr "As mudanças foram aplicadas, mas é necessário reiniciar o sistema para que algumas tenham efeito. "
 
-#: preferences.py:3368
-msgid "Error at statIcon value"
-msgstr "Erro no valor de statIcon"
-
-#: preferences.py:3409
-msgid ""
-"The changes have been applied, but it is necessary to restart so that some "
-"of them may take effect. "
-msgstr "As mudanças foram aplicadas, mas é necessário reiniciar o sistema para"
-"que algumas tenham efeito. "
-
-#: preferences.py:3409
-msgid "Do you want to restart?"
+#: preferences.py:3379
+msgid "strmessagenvidia2"
 msgstr "Você quer reiniciar?"
 
-#: preferences.py:3414
-msgid "System will not restart"
+#: preferences.py:3384
+msgid "strprintresponsenvidia"
 msgstr "O sistema não vai reiniciar"

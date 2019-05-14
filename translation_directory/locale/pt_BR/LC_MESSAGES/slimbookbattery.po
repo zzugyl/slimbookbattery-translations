@@ -17,165 +17,150 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: slimbookbattery.py:44
-msgid "File ahorrodeenergia exists in custom"
-msgstr ""
-
-#: slimbookbattery.py:45
-msgid "File equilibrado exists in custom"
-msgstr ""
-
-#: slimbookbattery.py:46
-msgid "File maximorendimiento exists in custom"
-msgstr ""
+#: slimbookbattery.py:47
+msgid "strenergysavingexists1"
+msgstr "Arquivo ahorrodeenergia existe em costume"
 
 #: slimbookbattery.py:56
-msgid "File ahorrodeenergia exists in default"
-msgstr ""
+msgid "strbalancedexists1"
+msgstr "Arquivo equilibrado existe em costume"
 
-#: slimbookbattery.py:57
-msgid "File equilibrado exists in default"
-msgstr ""
+#: slimbookbattery.py:64
+msgid "strmaximumperformanceexists1"
+msgstr "Arquivo maximorendimiento existe em costume"
 
-#: slimbookbattery.py:58
-msgid "File maximorendimiento exists in default"
-msgstr ""
+#: slimbookbattery.py:80
+msgid "strenergysavingexists2"
+msgstr "Arquivo ahorrodeenergia existe em padrão"
 
-#: slimbookbattery.py:70
-msgid "File config it's correct"
+#: slimbookbattery.py:88
+msgid "strbalancedexists2"
+msgstr "Arquivo equilibrado existe em padrão"
+
+#: slimbookbattery.py:96
+msgid "strmaximumperformanceexists2"
+msgstr "Arquivo maximorendimiento existe em padrão"
+
+#: slimbookbattery.py:114
+msgid "strconfigfilecheck"
 msgstr "Arquivo de configuração está correto"
 
-#: slimbookbattery.py:102
-msgid "The user introduces password correctly"
+#: slimbookbattery.py:146
+msgid "strpasswordcorrect"
 msgstr "O usuário digitou a senha corretamente"
 
-#: slimbookbattery.py:104 slimbookbattery.py:415 slimbookbattery.py:444
-#: slimbookbattery.py:470 slimbookbattery.py:495 slimbookbattery.py:596
-msgid "Wrong password"
+#: slimbookbattery.py:148 slimbookbattery.py:453 slimbookbattery.py:482
+#: slimbookbattery.py:508 slimbookbattery.py:533 slimbookbattery.py:634
+msgid "strpasswordwrong"
 msgstr "Senha errada"
 
-#: slimbookbattery.py:158
-msgid "Cycle alerts enabled and applicacion it's on"
+#: slimbookbattery.py:196
+msgid "strappstatus1"
 msgstr "Alertas de ciclos ativados e aplicativo rodando"
 
-#: slimbookbattery.py:170
-msgid "Cycle alerts disabled and application it's on"
+#: slimbookbattery.py:208
+msgid "strappstatus2"
 msgstr "Alertas de ciclos desativados e aplicativo rodando"
 
-#: slimbookbattery.py:179
-msgid "Cycle alerts are enabled and the application it's off"
+#: slimbookbattery.py:217
+msgid "strappstatus3"
 msgstr "Alertas de ciclo estão ativados e aplicativo está encerrado"
 
-#: slimbookbattery.py:182
-msgid "Cycle alerts are disabled and the application it's off"
+#: slimbookbattery.py:220
+msgid "strappstatus4"
 msgstr "Alertas de ciclo estão desativados e aplicativo está encerrado"
 
-#: slimbookbattery.py:217
-msgid "Energy Saving"
+#: slimbookbattery.py:255
+msgid "strenergysaving"
 msgstr "Economia de energia"
 
-#: slimbookbattery.py:222
-msgid "Balanced"
+#: slimbookbattery.py:260
+msgid "strbalanced"
 msgstr "Equilibrado"
 
-#: slimbookbattery.py:227
-msgid "Maximum Performance"
+#: slimbookbattery.py:265
+msgid "strmaximumperformance"
 msgstr "Máximo Desempenho"
 
-#: slimbookbattery.py:232
-msgid "Off"
+#: slimbookbattery.py:270
+msgid "stroffoption"
 msgstr "Desligado"
 
-#: slimbookbattery.py:237
-msgid "Advanced mode"
+#: slimbookbattery.py:275
+msgid "stradvancedmode"
 msgstr "Modo avançado"
 
-#: slimbookbattery.py:240
-msgid "Exit"
+#: slimbookbattery.py:278
+msgid "strexitoption"
 msgstr "Sair"
 
-#: slimbookbattery.py:323
-msgid "Max battery: "
-msgstr "Bateria max."
-
-#: slimbookbattery.py:324
-msgid "Min battery: "
-msgstr "Bateria min."
-
-#: slimbookbattery.py:325
-msgid "Max times: "
-msgstr "Máx. número de vezes"
-
-#: slimbookbattery.py:326
-msgid "Time between warnings: "
-msgstr "Tempo entre avisos"
-
-#: slimbookbattery.py:338
-msgid "Current battery: "
-msgstr "Bateria atual:"
-
-#: slimbookbattery.py:344
-msgid "Alerts disabled"
-msgstr "Alertas desativados"
-
-#: slimbookbattery.py:346
-msgid "Alerts variable error"
-msgstr "Erro de variável de alertas"
-
-#: slimbookbattery.py:351
-msgid "High battery level (Remaining "
-msgstr "Alto nível de bateria (Restante"
-
-#: slimbookbattery.py:351 slimbookbattery.py:359
-msgid " Warning "
-msgstr " Aviso"
-
-#: slimbookbattery.py:351 slimbookbattery.py:359
-msgid " Time until the next warning "
-msgstr " Tempo até o próximo aviso"
-
-#: slimbookbattery.py:351 slimbookbattery.py:359
-msgid " seconds"
-msgstr " segundos"
-
-#: slimbookbattery.py:354
-msgid "High battery. Disconnect your power supply."
-msgstr "Bateria cheia. Desconecte seu cabo de energia."
-
-#: slimbookbattery.py:359
-msgid "Critical battery level (Remaining "
-msgstr "Nível crítico de bateria (Restante "
+#: slimbookbattery.py:361
+msgid "strprintmaxbat"
+msgstr "Bateria max: "
 
 #: slimbookbattery.py:362
-msgid "Low battery. Connect your power supply."
+msgid "strprintminbat"
+msgstr "Bateria min: "
+
+#: slimbookbattery.py:363
+msgid "strprintmaxtimes"
+msgstr "Máx. número de vezes: "
+
+#: slimbookbattery.py:364
+msgid "strprinttimebwnwarnings"
+msgstr "Tempo entre avisos: "
+
+#: slimbookbattery.py:376
+msgid "strcurrentbat"
+msgstr "Bateria atual: "
+
+#: slimbookbattery.py:382
+msgid "stralertsdisabled"
+msgstr "Alertas desativados"
+
+#: slimbookbattery.py:388
+msgid "strhighbatnotify1"
+msgstr "Alto nível de bateria (Restante"
+
+#: slimbookbattery.py:388 slimbookbattery.py:396
+msgid "strwarningnotify"
+msgstr " Aviso "
+
+#: slimbookbattery.py:388 slimbookbattery.py:396
+msgid "strtimeuntilnextwarning"
+msgstr " Tempo até o próximo aviso "
+
+#: slimbookbattery.py:388 slimbookbattery.py:396
+msgid "strsecondsnotify"
+msgstr " segundos"
+
+#: slimbookbattery.py:391
+msgid "strhighbatnotify2"
+msgstr "Bateria cheia. Desconecte seu cabo de energia."
+
+#: slimbookbattery.py:396
+msgid "strcriticalbatnotify1"
+msgstr "Nível crítico de bateria (Restante "
+
+#: slimbookbattery.py:399
+msgid "strcriticalbatnotify2"
 msgstr "Pouca bateria. Conecte seu cabo de energia."
 
-#: slimbookbattery.py:407 slimbookbattery.py:421 slimbookbattery.py:435
-#: slimbookbattery.py:461 slimbookbattery.py:520 slimbookbattery.py:527
-#: slimbookbattery.py:539 slimbookbattery.py:556 slimbookbattery.py:563
-#: slimbookbattery.py:590
-msgid "not process"
+#: slimbookbattery.py:444 slimbookbattery.py:458 slimbookbattery.py:472
+#: slimbookbattery.py:498 slimbookbattery.py:524 slimbookbattery.py:550
+#: slimbookbattery.py:557 slimbookbattery.py:564 slimbookbattery.py:576
+#: slimbookbattery.py:593 slimbookbattery.py:600 slimbookbattery.py:627
+msgid "strnotprocess"
 msgstr "não processar"
 
-#: slimbookbattery.py:414
-msgid ""
-"No se cierra la aplicación, ya que el usuario no ha introducido la contraseña"
-msgstr "Wrong password"
-
-#: slimbookbattery.py:656
-msgid "Alert!"
+#: slimbookbattery.py:692
+msgid "strdialogtitle"
 msgstr "Alerta!"
 
-#: slimbookbattery.py:658
-msgid ""
-"The changes have been applied, but it is necessary to restart so that some "
-"of them may take effect. \n"
-"Do you want to restart?"
-msgstr ""
-"As alterações foram aplicadas, mas há a necessidade de reiniciar o sistema"
-"para que algumas delas tenham efeito total."
-"Você quer reiniciar?"
+#: slimbookbattery.py:694
+msgid "strdialogmessage"
+msgstr "As alterações foram aplicadas, mas há a necessidade de reiniciar o sistema para que algumas delas tenham efeito total.\nVocê quer reiniciar?"
 
 #: slimbookbattery.py:663
-msgid "System will not restart"
+msgid "strsystemnotrestart"
 msgstr "O sistema não vai reiniciar"
