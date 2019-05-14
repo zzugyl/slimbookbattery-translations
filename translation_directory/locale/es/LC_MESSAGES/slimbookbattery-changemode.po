@@ -17,76 +17,70 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: slimbookbattery-changemode.py:31
-msgid "Has an nvidia graphics card"
+#: slimbookbattery-changemode.py:34
+msgid "strhasnvidia"
 msgstr "Tiene una tarjeta gráfica Nvidia"
 
-#: slimbookbattery-changemode.py:36
-msgid "Changes to nvidia graphics: power off mode"
+#: slimbookbattery-changemode.py:39
+msgid "strchangesnvidiapoweroff"
 msgstr "Cambia a gráficos nvidia: modo apagado"
 
-#: slimbookbattery-changemode.py:41
-msgid "Changes to intel graphics: energy saving"
+#: slimbookbattery-changemode.py:44
+msgid "strnvidiachangestointelenergysaving"
 msgstr "Cambia a gráficos intel: ahorro de energía"
 
-#: slimbookbattery-changemode.py:44
-msgid "Alredy using intel graphics: energy saving"
+#: slimbookbattery-changemode.py:47
+msgid "strnvidiaalredyuseintelenergysaving"
 msgstr "Ya utiliza gráficos intel: ahorro de energía"
 
-#: slimbookbattery-changemode.py:48
-msgid "Changes to nvidia graphics: energy saving"
+#: slimbookbattery-changemode.py:51
+msgid "strchangestonvidiaenergysaving"
 msgstr "Cambia a gráficos nvidia: ahorro de energía"
 
-#: slimbookbattery-changemode.py:51
-msgid "Alredy using nvidia graphics: energy saving"
+#: slimbookbattery-changemode.py:54
+msgid "stralredyusenvidiaenergysaving"
 msgstr "Ya utiliza gráficos nvidia: ahorro de energía"
 
-#: slimbookbattery-changemode.py:55
-msgid "Changes to intel graphics: balanced"
+#: slimbookbattery-changemode.py:58
+msgid "strchangetointelbalanced"
 msgstr "Cambia a gráficos intel: equilibrado"
 
-#: slimbookbattery-changemode.py:58
-msgid "Alredy using intel graphics: balanced"
+#: slimbookbattery-changemode.py:61
+msgid "stralredyuseintelbalanced"
 msgstr "Ya utiliza gráficos intel: equilibrado"
 
-#: slimbookbattery-changemode.py:62
-msgid "Changes to nvidia graphics: balanced"
+#: slimbookbattery-changemode.py:65
+msgid "strchangetonvidiabalanced"
 msgstr "Cambia a gráficos nvidia: equilibrado"
 
-#: slimbookbattery-changemode.py:65
-msgid "Alredy using nvidia graphics: balanced"
+#: slimbookbattery-changemode.py:68
+msgid "stralredyusenvidiabalanced"
 msgstr "Ya utiliza gráficos nvidia: equilibrado"
 
-#: slimbookbattery-changemode.py:70
-msgid "Changes to nvidia graphics: maximumum performance"
+#: slimbookbattery-changemode.py:73
+msgid "strchangestonvidiamaximumperformance"
 msgstr "Cambia a gráficos nvidia: máximo rendimiento"
 
-#: slimbookbattery-changemode.py:73
-msgid "Alredy using nvidia graphics: maximum performance"
+#: slimbookbattery-changemode.py:76
+msgid "stralredyusenvidiamaximumperformance"
 msgstr "Ya utiliza gráficos nvidia: máximo rendimiento"
 
-#: slimbookbattery-changemode.py:77
-msgid ""
-"Modifications for AMD and Intel graphics are going to be made: energy saving"
-msgstr ""
-"Se aplican cambios para los gráficos AMD e Intel: ahorro de energia"
+#: slimbookbattery-changemode.py:80
+msgid "strmodificationtoamdintelenergysaving"
+msgstr "Se aplican cambios para los gráficos AMD e Intel: ahorro de energia"
 
-#: slimbookbattery-changemode.py:131
-msgid "AMD and Intel graphics back to default configuration: energy saving"
+#: slimbookbattery-changemode.py:142
+msgid "stramdintelbacktodefaultenergysaving"
 msgstr "Vuelven a los valores por defecto de los gráficos AMD e Intel: ahorro de energía"
 
-#: slimbookbattery-changemode.py:136
-msgid "Modifications for AMD and Intel graphics are going to be made: balanced"
+#: slimbookbattery-changemode.py:147
+msgid "strmodificationsamdintel"
 msgstr "Se aplican cambios para los gráficos AMD e Intel: equilibrado"
 
-#: slimbookbattery-changemode.py:184
-msgid "AMD and Intel graphics back to default configuration: balanced"
+#: slimbookbattery-changemode.py:207
+msgid "stramdintelbacktodefaultbalanced"
 msgstr "Vuelven a los valores por defecto de los gráficos AMD e Intel: equilibrado"
 
-#: slimbookbattery-changemode.py:207
-msgid "Brightness value converted: "
+#: slimbookbattery-changemode.py:230
+msgid "strbrightness"
 msgstr "Brillo convertido: "
-
-#: slimbookbattery-changemode.py:213
-msgid "Error calling accion param"
-msgstr "Error llamando a la variable accion"
