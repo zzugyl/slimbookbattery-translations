@@ -334,7 +334,7 @@ msgstr "Visit SLIMBOOK website"
 
 #: preferences.py:2019
 msgid "strurlwebsite"
-msgstr "https://slimbook.es/tutoriales/aplicaciones-slimbook/100-slimbook-battery-3-optimiza-la-duracion-de-la-bateria-de-tu-ordenador-portatil"
+msgstr "https://slimbook.es/en/tutoriales/aplicaciones-slimbook/398-slimbook-battery-3-application-for-optimize-battery-of-your-laptop"
 
 #: preferences.py:2019
 msgid "strvisittutorial"
@@ -366,7 +366,7 @@ msgstr "Generate report file"
 
 #: preferences.py:2053
 msgid "strwarranty"
-msgstr "The software is provided \"as is\", without warranty of anu kind."
+msgstr "The software is provided \"as is\", without warranty of any kind."
 
 #: preferences.py:2058
 msgid "strlicense1"
