@@ -1,0 +1,95 @@
+# SLIMBOOK BATTERY
+# Copyright (C) 2019
+# This file is distributed under the same license as the SLIMBOOK BATTERY package.
+# SLIMBOOK <dev@slimbook.es>, 2019.
+# Miguel A. Bouzada Fdez. <mbouzada@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: SLIMBOOK BATTERY 3.2beta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-09 14:08+0200\n"
+"PO-Revision-Date: 2019-05-14 11:56+0200\n"
+"Last-Translator: Miguel A. Bouzada Fdez. <mbouzada@gmail.com>\n"
+"Language-Team: Proxecto Trasno\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+#: slimbookbattery-changemode.py:31
+msgid "Has an nvidia graphics card"
+msgstr "Ten unha tarxeta gráfica Nvidia"
+
+#: slimbookbattery-changemode.py:36
+msgid "Changes to nvidia graphics: power off mode"
+msgstr "Cambia a gráficos Nvidia: modo apagado"
+
+#: slimbookbattery-changemode.py:41
+msgid "Changes to intel graphics: energy saving"
+msgstr "Cambia a gráficos Intel: aforro de enerxía"
+
+#: slimbookbattery-changemode.py:44
+msgid "Alredy using intel graphics: energy saving"
+msgstr "Xa emprega gráficos Intel: aforro de enerxía"
+
+#: slimbookbattery-changemode.py:48
+msgid "Changes to nvidia graphics: energy saving"
+msgstr "Cambia a gráficos Nvidia: aforro de enerxía"
+
+#: slimbookbattery-changemode.py:51
+msgid "Alredy using nvidia graphics: energy saving"
+msgstr "Xa emprega gráficos Nvidia: aforro de enerxía"
+
+#: slimbookbattery-changemode.py:55
+msgid "Changes to intel graphics: balanced"
+msgstr "Cambia a gráficos Intel: equilibrado"
+
+#: slimbookbattery-changemode.py:58
+msgid "Alredy using intel graphics: balanced"
+msgstr "Xa emprega gráficos Intel: equilibrado"
+
+#: slimbookbattery-changemode.py:62
+msgid "Changes to nvidia graphics: balanced"
+msgstr "Cambia a gráficos Nvidia: equilibrado"
+
+#: slimbookbattery-changemode.py:65
+msgid "Alredy using nvidia graphics: balanced"
+msgstr "Xa emprega gráficos Nvidia: equilibrado"
+
+#: slimbookbattery-changemode.py:70
+msgid "Changes to nvidia graphics: maximumum performance"
+msgstr "Cambia a gráficos Nvidia: máximo rendemento"
+
+#: slimbookbattery-changemode.py:73
+msgid "Alredy using nvidia graphics: maximum performance"
+msgstr "Xa emprega gráficos Nvidia: máximo rendemento"
+
+#: slimbookbattery-changemode.py:77
+msgid ""
+"Modifications for AMD and Intel graphics are going to be made: energy saving"
+msgstr "Aplicanse cambios para os gráficos AMD e Intel: aforro de enerxía"
+
+#: slimbookbattery-changemode.py:131
+msgid "AMD and Intel graphics back to default configuration: energy saving"
+msgstr ""
+"Volvese aos valores predeterminados dos gráficos AMD e Intel: aforro de "
+"enerxía"
+
+#: slimbookbattery-changemode.py:136
+msgid "Modifications for AMD and Intel graphics are going to be made: balanced"
+msgstr "Aplicanse cambios para os gráficos AMD e Intel: equilibrado"
+
+#: slimbookbattery-changemode.py:184
+msgid "AMD and Intel graphics back to default configuration: balanced"
+msgstr ""
+"Volvese aos valores predeterminados dos gráficos AMD e Intel: equilibrado"
+
+#: slimbookbattery-changemode.py:207
+msgid "Brightness value converted: "
+msgstr "Brillo convertido: "
+
+#: slimbookbattery-changemode.py:213
+msgid "Error calling accion param"
+msgstr "Produciuse un erro ao invocar o parámetro «accion»"
