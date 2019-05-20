@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: SLIMBOOK BATTERY 3.2beta\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-05-09 14:08+0200\n"
-"PO-Revision-Date: 2019-05-14 11:56+0200\n"
+"PO-Revision-Date: 2019-05-20 19:03+0200\n"
 "Last-Translator: Miguel A. Bouzada Fdez. <mbouzada@gmail.com>\n"
 "Language-Team: Proxecto Trasno\n"
 "Language: es\n"
@@ -18,78 +18,73 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Virtaal 0.7.1\n"
 
-#: slimbookbattery-changemode.py:31
-msgid "Has an nvidia graphics card"
+#: slimbookbattery-changemode.py:34
+msgid "strhasnvidia"
 msgstr "Ten unha tarxeta gráfica Nvidia"
 
-#: slimbookbattery-changemode.py:36
-msgid "Changes to nvidia graphics: power off mode"
-msgstr "Cambia a gráficos Nvidia: modo apagado"
-
-#: slimbookbattery-changemode.py:41
-msgid "Changes to intel graphics: energy saving"
-msgstr "Cambia a gráficos Intel: aforro de enerxía"
+#: slimbookbattery-changemode.py:39
+msgid "strchangesnvidiapoweroff"
+msgstr "Cambia a gráficos nvidia: modo apagado"
 
 #: slimbookbattery-changemode.py:44
-msgid "Alredy using intel graphics: energy saving"
+msgid "strnvidiachangestointelenergysaving"
+msgstr "Cambia a gráficos Intel: aforro de enerxía"
+
+#: slimbookbattery-changemode.py:47
+msgid "strnvidiaalredyuseintelenergysaving"
 msgstr "Xa emprega gráficos Intel: aforro de enerxía"
 
-#: slimbookbattery-changemode.py:48
-msgid "Changes to nvidia graphics: energy saving"
+#: slimbookbattery-changemode.py:51
+msgid "strchangestonvidiaenergysaving"
 msgstr "Cambia a gráficos Nvidia: aforro de enerxía"
 
-#: slimbookbattery-changemode.py:51
-msgid "Alredy using nvidia graphics: energy saving"
+#: slimbookbattery-changemode.py:54
+msgid "stralredyusenvidiaenergysaving"
 msgstr "Xa emprega gráficos Nvidia: aforro de enerxía"
 
-#: slimbookbattery-changemode.py:55
-msgid "Changes to intel graphics: balanced"
+#: slimbookbattery-changemode.py:58
+msgid "strchangetointelbalanced"
 msgstr "Cambia a gráficos Intel: equilibrado"
 
-#: slimbookbattery-changemode.py:58
-msgid "Alredy using intel graphics: balanced"
+#: slimbookbattery-changemode.py:61
+msgid "stralredyuseintelbalanced"
 msgstr "Xa emprega gráficos Intel: equilibrado"
 
-#: slimbookbattery-changemode.py:62
-msgid "Changes to nvidia graphics: balanced"
+#: slimbookbattery-changemode.py:65
+msgid "strchangetonvidiabalanced"
 msgstr "Cambia a gráficos Nvidia: equilibrado"
 
-#: slimbookbattery-changemode.py:65
-msgid "Alredy using nvidia graphics: balanced"
+#: slimbookbattery-changemode.py:68
+msgid "stralredyusenvidiabalanced"
 msgstr "Xa emprega gráficos Nvidia: equilibrado"
 
-#: slimbookbattery-changemode.py:70
-msgid "Changes to nvidia graphics: maximumum performance"
+#: slimbookbattery-changemode.py:73
+msgid "strchangestonvidiamaximumperformance"
 msgstr "Cambia a gráficos Nvidia: máximo rendemento"
 
-#: slimbookbattery-changemode.py:73
-msgid "Alredy using nvidia graphics: maximum performance"
+#: slimbookbattery-changemode.py:76
+msgid "stralredyusenvidiamaximumperformance"
 msgstr "Xa emprega gráficos Nvidia: máximo rendemento"
 
-#: slimbookbattery-changemode.py:77
-msgid ""
-"Modifications for AMD and Intel graphics are going to be made: energy saving"
+#: slimbookbattery-changemode.py:80
+msgid "strmodificationtoamdintelenergysaving"
 msgstr "Aplicanse cambios para os gráficos AMD e Intel: aforro de enerxía"
 
-#: slimbookbattery-changemode.py:131
-msgid "AMD and Intel graphics back to default configuration: energy saving"
+#: slimbookbattery-changemode.py:142
+msgid "stramdintelbacktodefaultenergysaving"
 msgstr ""
 "Volvese aos valores predeterminados dos gráficos AMD e Intel: aforro de "
 "enerxía"
 
-#: slimbookbattery-changemode.py:136
-msgid "Modifications for AMD and Intel graphics are going to be made: balanced"
+#: slimbookbattery-changemode.py:147
+msgid "strmodificationsamdintel"
 msgstr "Aplicanse cambios para os gráficos AMD e Intel: equilibrado"
 
-#: slimbookbattery-changemode.py:184
-msgid "AMD and Intel graphics back to default configuration: balanced"
+#: slimbookbattery-changemode.py:207
+msgid "stramdintelbacktodefaultbalanced"
 msgstr ""
 "Volvese aos valores predeterminados dos gráficos AMD e Intel: equilibrado"
 
-#: slimbookbattery-changemode.py:207
-msgid "Brightness value converted: "
+#: slimbookbattery-changemode.py:230
+msgid "strbrightness"
 msgstr "Brillo convertido: "
-
-#: slimbookbattery-changemode.py:213
-msgid "Error calling accion param"
-msgstr "Produciuse un erro ao invocar o parámetro «accion»"
