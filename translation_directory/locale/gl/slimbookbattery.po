@@ -1,0 +1,174 @@
+# SLIMBOOK BATTERY
+# Copyright (C) 2019
+# This file is distributed under the same license as the SLIMBOOK BATTERY package.
+# SLIMBOOK <dev@slimbook.es>, 2019.
+# Miguel A. Bouzada Fdez. <mbouzada@gmail.com>, 2019.
+msgid ""
+msgstr ""
+"Project-Id-Version: SLIMBOOK BATTERY 3.2beta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-09 14:08+0200\n"
+"PO-Revision-Date: 2019-05-20 18:59+0200\n"
+"Last-Translator: Miguel A. Bouzada Fdez. <mbouzada@gmail.com>\n"
+"Language-Team: Proxecto Trasno\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.7.1\n"
+
+#: slimbookbattery.py:47
+msgid "strenergysavingexists1"
+msgstr "O ficheiro «ahorrodeenergia» xa existe en «custom»"
+
+#: slimbookbattery.py:56
+msgid "strbalancedexists1"
+msgstr "O ficheiro «equilibrado» xa existe en «custom»"
+
+#: slimbookbattery.py:64
+msgid "strmaximumperformanceexists1"
+msgstr "O ficheiro «maximorendimiento» xa existe en «custom»"
+
+#: slimbookbattery.py:80
+msgid "strenergysavingexists2"
+msgstr "O ficheiro «ahorrodeenergia» xa existe en «default»"
+
+#: slimbookbattery.py:88
+msgid "strbalancedexists2"
+msgstr "O ficheiro «equilibrado» xa existe en «default»"
+
+#: slimbookbattery.py:96
+msgid "strmaximumperformanceexists2"
+msgstr "O ficheiro «maximorendimiento» xa existe en «default»"
+
+#: slimbookbattery.py:114
+msgid "strconfigfilecheck"
+msgstr "O ficheiro «config» é correcto"
+
+#: slimbookbattery.py:146
+msgid "strpasswordcorrect"
+msgstr "O usuario introduciu o contrasinal correctamente"
+
+#: slimbookbattery.py:148 slimbookbattery.py:453 slimbookbattery.py:482
+#: slimbookbattery.py:508 slimbookbattery.py:533 slimbookbattery.py:634
+msgid "strpasswordwrong"
+msgstr "Produciuse un erro ao introducir o contrasinal"
+
+#: slimbookbattery.py:196
+msgid "strappstatus1"
+msgstr "As alertas de ciclos están activadas e o aplicativo está acendido"
+
+#: slimbookbattery.py:208
+msgid "strappstatus2"
+msgstr "As alertas de ciclos están desactivadas e o aplicativo está acendido"
+
+#: slimbookbattery.py:217
+msgid "strappstatus3"
+msgstr "As alertas de ciclos están activadas e o aplicativo está apagado"
+
+#: slimbookbattery.py:220
+msgid "strappstatus4"
+msgstr "As alertas de ciclos están desactivadas e o aplicativo está apagado"
+
+#: slimbookbattery.py:255
+msgid "strenergysaving"
+msgstr "Aforro de enerxía"
+
+#: slimbookbattery.py:260
+msgid "strbalanced"
+msgstr "Equilibrado"
+
+#: slimbookbattery.py:265
+msgid "strmaximumperformance"
+msgstr "Máximo rendemento"
+
+#: slimbookbattery.py:270
+msgid "stroffoption"
+msgstr "Apagar"
+
+#: slimbookbattery.py:275
+msgid "stradvancedmode"
+msgstr "Modo avanzado"
+
+#: slimbookbattery.py:278
+msgid "strexitoption"
+msgstr "Saír"
+
+#: slimbookbattery.py:361
+msgid "strprintmaxbat"
+msgstr "Máxima batería: "
+
+#: slimbookbattery.py:362
+msgid "strprintminbat"
+msgstr "Mínima batería: "
+
+#: slimbookbattery.py:363
+msgid "strprintmaxtimes"
+msgstr "Número máximo de avisos: "
+
+#: slimbookbattery.py:364
+msgid "strprinttimebwnwarnings"
+msgstr "Tempo entre avisos: "
+
+#: slimbookbattery.py:376
+msgid "strcurrentbat"
+msgstr "Batería actual: "
+
+#: slimbookbattery.py:382
+msgid "stralertsdisabled"
+msgstr "Alertas desactivadas"
+
+#: slimbookbattery.py:346
+msgid "Alerts variable error"
+msgstr "Produciuse un erro na variábel das alertas"
+
+#: slimbookbattery.py:388
+msgid "strhighbatnotify1"
+msgstr "Alto nivel de batería (Restan "
+
+#: slimbookbattery.py:388 slimbookbattery.py:396
+msgid "strwarningnotify"
+msgstr " Alerta "
+
+#: slimbookbattery.py:388 slimbookbattery.py:396
+msgid "strtimeuntilnextwarning"
+msgstr " Tempo ata a próxima alerta "
+
+#: slimbookbattery.py:388 slimbookbattery.py:396
+msgid "strsecondsnotify"
+msgstr " segundos"
+
+#: slimbookbattery.py:391
+msgid "strhighbatnotify2"
+msgstr "Alto nivel de batería. Desconecte o cargador."
+
+#: slimbookbattery.py:396
+msgid "strcriticalbatnotify1"
+msgstr "Nivel crítico de batería (Restan "
+
+#: slimbookbattery.py:399
+msgid "strcriticalbatnotify2"
+msgstr "Batería baixa. Conecte o cargador."
+
+#: slimbookbattery.py:444 slimbookbattery.py:458 slimbookbattery.py:472
+#: slimbookbattery.py:498 slimbookbattery.py:524 slimbookbattery.py:550
+#: slimbookbattery.py:557 slimbookbattery.py:564 slimbookbattery.py:576
+#: slimbookbattery.py:593 slimbookbattery.py:600 slimbookbattery.py:627
+msgid "strnotprocess"
+msgstr "non hai procesos"
+
+#: slimbookbattery.py:692
+msgid "strdialogtitle"
+msgstr "Alerta!"
+
+#: slimbookbattery.py:694
+msgid "strdialogmessage"
+msgstr ""
+"Aplicáronse os cambios, mais é preciso reiniciar para que algúns deles sexan "
+"aplicados \n"
+"Quere reiniciar agora?"
+
+#: slimbookbattery.py:663
+msgid "strsystemnotrestart"
+msgstr "O sistema non se vai reiniciar"
