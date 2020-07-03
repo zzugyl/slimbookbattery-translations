@@ -1,0 +1,461 @@
+# SLIMBOOK BATTERY
+# Copyright (C) 2019
+# This file is distributed under the same license as the SLIMBOOK BATTERY package.
+# SLIMBOOK <dev@slimbook.es>, 2019.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SLIMBOOK BATTERY 3.2beta\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-03 12:28+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Ícar N. S. <icar.nin@protonmail.com>\n"
+"Language-Team: none \n"
+"Language: Catalan\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: preferences.py:41
+msgid "strdialogtitle"
+msgstr "Preferències de SlimBook Battery"
+
+#: preferences.py:45
+msgid "strrestorebutton"
+msgstr "Restaurar als valors per defecte"
+
+#: preferences.py:64
+msgid "strprintwindowsize"
+msgstr "La finestra es mostra sencera"
+
+#: preferences.py:84
+msgid "strprintancho"
+msgstr "Ample: "
+
+#: preferences.py:84
+msgid "strprintalto"
+msgstr "Altura: "
+
+#: preferences.py:86 preferences.py:94
+msgid "strpagegeneral"
+msgstr "General"
+
+#: preferences.py:104 preferences.py:112
+msgid "strpagecycles"
+msgstr "Cicles"
+
+#: preferences.py:122 preferences.py:130 preferences.py:240 preferences.py:2901
+msgid "strenergysaving"
+msgstr "Estalvi d'energia"
+
+#: preferences.py:140 preferences.py:148 preferences.py:241 preferences.py:2906
+msgid "strbalanced"
+msgstr "Equilibrat"
+
+#: preferences.py:158 preferences.py:166 preferences.py:242 preferences.py:2908
+msgid "strmaximumperformance"
+msgstr "Màxim rendiment"
+
+#: preferences.py:176 preferences.py:184
+msgid "strpagebattery"
+msgstr "Bateria"
+
+#: preferences.py:194 preferences.py:202
+msgid "strpageinfo"
+msgstr "Informació"
+
+#: preferences.py:211
+msgid "strswitchonoff"
+msgstr "Encendre / Apagar:"
+
+#: preferences.py:223
+msgid "strswitchautostart"
+msgstr "Inici automàtic amb el sistema:"
+
+#: preferences.py:235
+msgid "strselectmode"
+msgstr "Mode actual d'energia"
+
+#: preferences.py:264
+msgid "strworkingmode"
+msgstr "En cas de fallada de la bateria, treballar en mode:"
+
+#: preferences.py:282
+msgid "striconapp"
+msgstr "Icona a la barra de tasques (requereix reiniciar l'aplicació):"
+
+#: preferences.py:292
+msgid "strhelpiconapp"
+msgstr "Nota: Si tens l'inici automàtic activat i l'icona oculta, l'aplicació s'executarà amb l'icona oculta (una vegada reinicïis el sistema)"
+
+#: preferences.py:309
+msgid "strhibernate"
+msgstr "Hibernar després d'estar 3 hores en suspensió:"
+
+#: preferences.py:325 preferences.py:773 preferences.py:1228
+msgid "strtitlebatparams"
+msgstr "Paràmetres en mode bateria (desactivats en connectar el carregador):"
+
+#: preferences.py:335 preferences.py:782 preferences.py:1237
+msgid "strlimitcpu"
+msgstr "Perfil de limitació de la CPU:"
+
+#: preferences.py:345 preferences.py:792 preferences.py:1247
+msgid "strlimitcputooltip"
+msgstr "Nota: aquest paràmetre afecta al rendiment"
+
+#: preferences.py:354 preferences.py:801 preferences.py:1256
+#: preferences.py:2950 preferences.py:3084 preferences.py:3265
+msgid "strmaximumlimitcpu"
+msgstr "màxima"
+
+#: preferences.py:352 preferences.py:799 preferences.py:1254
+#: preferences.py:355 preferences.py:802 preferences.py:1257
+#: preferences.py:2953 preferences.py:3087 preferences.py:3268
+msgid "strmediumlimitcpu"
+msgstr "mitja"
+
+#: preferences.py:356 preferences.py:803 preferences.py:1258
+#: preferences.py:2956 preferences.py:3090 preferences.py:3271
+msgid "strnonelimitcpu"
+msgstr "cap"
+
+#: preferences.py:371 preferences.py:819 preferences.py:1273
+msgid "strgovernorcpu"
+msgstr "Perfil del governador de l'escalat de la CPU:"
+
+#: preferences.py:390 preferences.py:845 preferences.py:1299
+msgid "strgraphicssaving"
+msgstr "Perfil d'estalvi gràfic (Nvidia/AMD/Intel):"
+
+#: preferences.py:407 preferences.py:862 preferences.py:1316
+msgid "strsoundsaving"
+msgstr "Perfil d'estalvi de so:"
+
+#: preferences.py:417 preferences.py:872 preferences.py:1326
+msgid "strsoundtooltip"
+msgstr "Nota: aquest paràmetre pot causar petits tics en la sortida del so"
+
+#: preferences.py:438 preferences.py:893 preferences.py:1347
+msgid "strwifisaving"
+msgstr "Perfil d'estalvi del Wi-Fi:"
+
+#: preferences.py:448 preferences.py:903 preferences.py:1357
+msgid "strwifisavingtooltip"
+msgstr "Nota: pot causar inestabilitat en la connexió al seu punt d'accés"
+
+#: preferences.py:467 preferences.py:922 preferences.py:1376
+msgid "strbluetoothniu"
+msgstr "Desactivar el Bluetooth quan no s'utilitza"
+
+#: preferences.py:482 preferences.py:937 preferences.py:1391
+msgid "strwifiniu"
+msgstr "Desactivar la Wi-Fi quan no s'utilitza"
+
+#: preferences.py:498 preferences.py:953 preferences.py:1407
+msgid "strpersistentparams"
+msgstr "Canvis persistents:"
+
+#: preferences.py:507 preferences.py:962 preferences.py:1416
+msgid "strbrightness"
+msgstr "Ajustar la brillantor de la pantalla"
+
+#: preferences.py:517 preferences.py:972 preferences.py:1426
+msgid "strbirghtnesstooltip"
+msgstr "Nota: aquesta opció redueix el consum de la bateria considerablement"
+
+#: preferences.py:539 preferences.py:995 preferences.py:1449
+msgid "strbluetoothdbos"
+msgstr "Desactivar el Bluetooth a l'iniciar el sistema"
+
+#: preferences.py:341 preferences.py:1014 preferences.py:1485 
+msgid "strdisanimations"
+msgstr "Desactivar les animacions:"
+
+#: preferences.py:554 preferences.py:1010 preferences.py:1464
+msgid "strwifidbos"
+msgstr "Desactivar el Wi-Fi a l'iniciar el sistema:"
+
+#: preferences.py:569 preferences.py:1025 preferences.py:1479
+msgid "strwifionlanconn"
+msgstr "Desactivar el Wi-Fi al connectar el cable LAN:"
+
+#: preferences.py:586 preferences.py:1042 preferences.py:1496
+msgid "strautosuspendusb"
+msgstr "Autosuspensió de ports USB:"
+
+#: preferences.py:593 preferences.py:1049 preferences.py:1503
+#: preferences.py:596 preferences.py:1052 preferences.py:1506
+msgid "strautosuspendusbtooltip"
+msgstr "Nota: estableix el mode de suspensió automàtica per a tots els dispositius USB a l'iniciar el sistema o al canviar la font d'alimentació. Els dispositius d'entrada com ara els ratolins, els teclats o els escàners estan exclosos per defecte."
+
+#: preferences.py:618 preferences.py:1073 preferences.py:1528
+msgid "strexcludedusbids"
+msgstr "IDs dels dispositius USB exclosos de la suspensió automàtica:"
+
+#: preferences.py:647 preferences.py:1102 preferences.py:1557
+msgid "strexcludedusbtooltip"
+msgstr "Nota: escriu els IDs dels dispositius USB (separats per espais) per excloure'ls de la suspensió automàtica"
+
+#: preferences.py:671 preferences.py:1126 preferences.py:1581
+msgid "strusbexcludebluetooth"
+msgstr "Excloure dispositius Bluetooth de la suspensió automàtica USB:"
+
+#: preferences.py:691 preferences.py:1146 preferences.py:1601
+msgid "strusbexcludephone"
+msgstr "Excloure dispositius telefònics de la suspensió automàtica USB:"
+
+#: preferences.py:711 preferences.py:1166 preferences.py:1621
+msgid "strusbexcludeprinter"
+msgstr "Excloure les impresores de la suspensió automàtica USB:"
+
+#: preferences.py:731 preferences.py:1186 preferences.py:1641
+msgid "strusbexcludeethernet"
+msgstr "Excloure dispositius de xarxa de la suspensió automàtica USB:"
+
+#: preferences.py:751 preferences.py:1206 preferences.py:1661
+msgid "strusbautosuspenddisshutdown"
+msgstr "Desactivar la suspensió automàtica USB quan s'apagui el sistema:"
+
+#: preferences.py:1680
+msgid "strswitchcyclealerts"
+msgstr "Habilitar / Deshabilitar les alertes de cicles"
+
+#: preferences.py:1692
+msgid "strmaxbatval"
+msgstr "Càrrega màxima de la bateria:"
+
+#: preferences.py:1708
+msgid "strminbatval"
+msgstr "Càrrega mínima de la bateria:"
+
+#: preferences.py:1724
+msgid "strnumoftimes"
+msgstr "Número d'avisos:"
+
+#: preferences.py:1740
+msgid "strtimebwnwarnings"
+msgstr "Temps entre les alertes:"
+
+#: preferences.py:1775
+msgid "strbatdevice"
+msgstr "Bateria:"
+
+#: preferences.py:1784
+msgid "strmanufacturer"
+msgstr "Fabricant:"
+
+#: preferences.py:1793
+msgid "strbatmodel"
+msgstr "Model de la bateria:"
+
+#: preferences.py:1802
+msgid "strtechnology"
+msgstr "Tecnologia:"
+
+#: preferences.py:1811
+msgid "strremainbat"
+msgstr "Bateria restant:"
+
+#: preferences.py:1820
+msgid "strmaxcapacity"
+msgstr "Màxima capacitat:"
+
+#: preferences.py:1829
+msgid "strstatusbat"
+msgstr "Estat:"
+
+#: preferences.py:1839 preferences.py:1849
+msgid "strtimetofullbat"
+msgstr "Temps per la càrrega:"
+
+#: preferences.py:1844
+msgid "strtimetoemptybat"
+msgstr "Temps per la descàrrega:"
+
+#: preferences.py:1854
+msgid "strtimetofullemptybat"
+msgstr "Temps per la càrrega/descàrrega:"
+
+#: preferences.py:1863
+msgid "strrechargeablebat"
+msgstr "Recarregable:"
+
+#: preferences.py:1872
+msgid "strpowersupplybat"
+msgstr "Font d'alimentació:"
+
+#: preferences.py:1881
+msgid "strenergyfullbat"
+msgstr "Energia completa:"
+
+#: preferences.py:1890
+msgid "strenergyfulldesignbat"
+msgstr "Màxima energia recomenada:"
+
+#: preferences.py:1899
+msgid "strenergyratebat"
+msgstr "Taxa d'energia: "
+
+#: preferences.py:1908
+msgid "strvoltagebat"
+msgstr "Voltatge:"
+
+#: preferences.py:1917
+msgid "strlastupdatebat"
+msgstr "Última actualizació de la bateria:"
+
+#: preferences.py:1939
+#: preferences.py:1942
+msgid "strslimbookbatdesc1"
+msgstr "SlimBook Battery és una aplicació que optimitza la bateria per a dispositius portàtils i que pot augmentar la vida"
+
+#: preferences.py:1942
+msgid "strslimbookbatdesc2"
+msgstr "de la bateria fins a un 50%. S'utilitza programari de tercers per administrar els recursos del sistema."
+
+#: preferences.py:1947
+msgid "strslimbookbatthanks"
+msgstr "Agraïm a TLP (© 2019, linrunner), Nvidia, AMD i Intel per oferir-nos les eines necessàries per a realitzar-ho."
+
+#: preferences.py:1952
+msgid "strslimbookbatsocialnetworks"
+msgstr "Si l'aplicació t'ha sigut d'utilitat, considera dir-ho a les nostres xarxes socials o inclús comprar un SLIMBOOK ;)"
+
+#: preferences.py:2002
+msgid "stradvice1"
+msgstr "NOTA IMPORTANT:"
+
+#: preferences.py:2002
+msgid "stradvice2"
+msgstr " Si ja tens instal·lat algun programari que canviï el perfil de la CPU, l'optimització de la"
+
+#: preferences.py:2002
+msgid "stradvice3"
+msgstr "bateria o similar, podria afectar el correcte funcionament d'aquesta aplicació. Utilitza-la sota la teva responsabilitat."
+
+#: preferences.py:2015
+msgid "strvisitwebsite"
+msgstr "Visita la web de SLIMBOOK"
+
+#: preferences.py:2019
+msgid "strurlwebsite"
+msgstr "https://slimbook.es/tutoriales/aplicaciones-slimbook/100-slimbook-battery-3-app-optimizar-bateria-portatil"
+
+#: preferences.py:2019
+msgid "strvisittutorial"
+msgstr "Tutorial per aprendre a utilitzar SlimBook Battery"
+
+#: preferences.py:2024
+msgid "straditionalinfo1"
+msgstr "Informació:"
+
+#: preferences.py:2024
+msgid "straditionalinfo2"
+msgstr "Contacta amb nosaltres si trobes algun error. Agrairíem que adjuntessis el fitxer"
+
+#: preferences.py:2024
+msgid "straditionalinfo3"
+msgstr "que es genera fent clic al botó de sota"
+
+#: preferences.py:2035
+msgid "strsendemail"
+msgstr "Envia un correu electrònic a: "
+
+#: preferences.py:2041
+msgid "strcopyemail"
+msgstr "Copiar el correu electrònic"
+
+#: preferences.py:2048
+msgid "strgeneratereport"
+msgstr "Generar un informe"
+
+#: preferences.py:2053
+msgid "strwarranty"
+msgstr "Aquest programari es proporciona \"tal qual\", sense cap garantia de cap tipus."
+
+#: preferences.py:2058
+msgid "strlicense1"
+msgstr "Vostè és lliure de:"
+
+#: preferences.py:2058
+msgid "strlicense2"
+msgstr "Compartir:"
+
+#: preferences.py:2058
+msgid "strlicense3"
+msgstr "--copiar i redistribuïr el material per qualsevol mitjà o format"
+
+#: preferences.py:2058
+msgid "strlicense4"
+msgstr "Slimbook Copyright - License Creative Commons BY-NC-ND"
+
+#: preferences.py:2081 preferences.py:2089 preferences.py:2097
+#: preferences.py:2105 preferences.py:2113 preferences.py:2121
+#: preferences.py:2129 preferences.py:2138 preferences.py:2145
+#: preferences.py:2149 preferences.py:2157 preferences.py:2165
+#: preferences.py:2173 preferences.py:2181 preferences.py:2189
+#: preferences.py:2197 preferences.py:2209
+msgid "strunknown"
+msgstr "Desconegut"
+
+#: preferences.py:2136 preferences.py:2143
+msgid "strhours"
+msgstr " hores"
+
+#: preferences.py:2147
+msgid "strfullychargedbat"
+msgstr "Completament carregada"
+
+#: preferences.py:2222
+msgid "strprintreportfilecheck1"
+msgstr "Informe generat"
+
+#: preferences.py:2224
+msgid "strprintreportfilecheck2"
+msgstr "Informe cancel·lat, error en la contrasenya"
+
+#: preferences.py:2226
+msgid "strprintreportfilecheck3"
+msgstr "Informe cancel·lat"
+
+#: preferences.py:2233
+msgid "strprintemailcopied"
+msgstr "El correu electrònic s'ha copiat al porta-retalls"
+
+#: preferences.py:2246 preferences.py:3377
+msgid "stralertdialog"
+msgstr "Alerta!"
+
+#: preferences.py:2248
+msgid "strmessagerestoredefaultvalues"
+msgstr "Desitges restablir-ho als valors per defecte?"
+
+#: preferences.py:2294
+msgid "strprintrestorevaluescancel"
+msgstr "Restauració als valors per defecte cancel·lada"
+
+#: preferences.py:3285
+msgid "strcurrentmode"
+msgstr "Mode actual : "
+
+#: preferences.py:3286
+msgid "strprintautostart"
+msgstr "Inici automàtic: "
+
+#: preferences.py:3288
+msgid "strprintappstatus"
+msgstr "OnOff: "
+
+#: preferences.py:3379
+msgid "strmessagenvidia1"
+msgstr "Els canvis s'han aplicat, però és necessari reiniciar per a que tinguin efecte. "
+
+#: preferences.py:3379
+msgid "strmessagenvidia2"
+msgstr "Desitja reiniciar?"
+
+#: preferences.py:3384
+msgid "strprintresponsenvidia"
+msgstr "El sistema no serà reiniciat"
